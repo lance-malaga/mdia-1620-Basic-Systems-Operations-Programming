@@ -18,3 +18,5 @@ function myFunction(x, y){
 }
 
 console.log(num);
+
+// hello my name is lance
